@@ -163,19 +163,20 @@ p {
      .custom-button-discord {
         font-size: 0.7rem;
         height: 35px;
-        margin-left: 65px;
-        margin-top: 2.5rem;
+        margin-left: 6px;
+        margin-top: 4.5rem;
     }
 
     .custom-button-github{
         font-size: 0.7rem;
-        height: 35px;
-        margin-left: -35px;
-        margin-top: 2.5rem;
+        height: 34px;
+        margin-left: 6px;
+        margin-top: 7rem;
+        width: 87.5px
     }
 
     a {
         font-size: 0.8rem;
-        margin-left: 3px;
+        margin-left: -5px;
     }
 }
