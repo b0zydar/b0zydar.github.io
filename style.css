@@ -59,7 +59,7 @@ h1 {
 
 button {
     position: absolute;
-    top: 48%;
+    top: 50%;
     left: 47%;
     transform: translate(-50%, -50%);
 }
@@ -150,13 +150,14 @@ p {
     }
 
     p {
-        font-size: 2.3rem;
+        font-size: 2.1rem;
+        margin-left: -0.5rem;
     }
 
     .TextAbout {
-        font-size: 0.7rem;
+        font-size: 0.68rem;
         width: 120%;
-        margin-left: -2rem;
+        margin-left: -1.9rem;
     }
 
      .custom-button-discord {
@@ -175,6 +176,6 @@ p {
 
     a {
         font-size: 0.9rem;
-        margin-left: -20px;
+        margin-left: 1px;
     }
 }
