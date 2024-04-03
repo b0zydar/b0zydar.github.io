@@ -157,7 +157,7 @@ p {
     .TextAbout {
         font-size: 0.68rem;
         width: 120%;
-        margin-left: -1.9rem;
+        margin-left: -1.8rem;
     }
 
      .custom-button-discord {
@@ -175,7 +175,7 @@ p {
     }
 
     a {
-        font-size: 0.9rem;
-        margin-left: 1px;
+        font-size: 0.8rem;
+        margin-left: 3px;
     }
 }
