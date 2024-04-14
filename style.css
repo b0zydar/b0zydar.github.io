@@ -163,14 +163,14 @@ p {
      .custom-button-discord {
         font-size: 0.7rem;
         height: 35px;
-        margin-left: 6px;
+        margin-left: 15px;
         margin-top: 4.5rem;
     }
 
     .custom-button-github{
         font-size: 0.7rem;
         height: 34px;
-        margin-left: 6px;
+        margin-left: 15px;
         margin-top: 7rem;
         width: 87.5px
     }
