@@ -25,6 +25,28 @@ body {
     flex-direction: column;
 }
 
+.banner {
+    background-color: #f8e7cf;
+    color: #9c6825;
+    font-family: "satoshi", sans-serif;
+    font-size: 1.2rem;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #e2c8a1;
+    border-radius: 5px;
+    margin: 10px auto;
+    width: 95%;
+    max-width: 1200px;
+}
+
+.warning-icon {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+
+
 h1 {
     font-family: "satoshi", sans-serif;
     font-size: 4rem;
