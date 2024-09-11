@@ -18,20 +18,20 @@ body {
 }
 
 .banner {
-    background-color: #f9d97a; /* Soft yellow background */
-    color: #ffffff; /* White text */
+    background-color: #f9d97a; 
+    color: #ffffff;
     font-family: "satoshi", sans-serif;
     font-size: 1.2rem;
     padding: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 8px; /* More rounded corners */
+    border-radius: 8px; 
     margin: 10px auto;
     width: 95%;
     max-width: 500px;
-    border: 1px solid #e0b83d; /* Border in a darker yellow */
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border: 1px solid #e0b83d;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
 }
 
 .warning-icon {
@@ -178,7 +178,7 @@ p {
     }
 
     .TextAbout {
-        font-size: 0.68rem;
+        font-size: 0.8rem;
         width: 120%;
         margin-left: -1.8rem;
     }
@@ -187,14 +187,14 @@ p {
         font-size: 0.7rem;
         height: 35px;
         margin-left: 15px;
-        margin-top: 4.5rem;
+        margin-top: 2.5rem;
     }
 
     .custom-button-github{
         font-size: 0.7rem;
         height: 34px;
         margin-left: 15px;
-        margin-top: 7rem;
+        margin-top: 5rem;
         width: 87.5px
     }
 
