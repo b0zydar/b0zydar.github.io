@@ -187,19 +187,20 @@ p {
         font-size: 0.7rem;
         height: 35px;
         margin-left: 15px;
-        margin-top: 2.5rem;
+        margin-top: 1rem;
     }
 
     .custom-button-github{
         font-size: 0.7rem;
         height: 34px;
         margin-left: 15px;
-        margin-top: 5rem;
+        margin-top: 3.5rem;
         width: 87.5px
     }
 
     a {
         font-size: 0.8rem;
+        margin-top: -5rem;
         margin-left: 3px;
     }
 }
