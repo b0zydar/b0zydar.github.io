@@ -174,7 +174,7 @@ p {
 
     p {
         font-size: 2.1rem;
-        margin-left: -0.5rem;
+        margin-left: 3px;
     }
 
     .TextAbout {
@@ -200,7 +200,7 @@ p {
 
     a {
         font-size: 0.8rem;
-        margin-top: -5rem;
+        margin-top: -4rem;
         margin-left: 3px;
     }
 }
